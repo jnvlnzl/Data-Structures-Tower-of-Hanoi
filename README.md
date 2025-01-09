@@ -1,6 +1,6 @@
 # Data-Structures-Tower-of-Hanoi
 
-The tower of Hanoi was made by a French mathematician Édouard Lucas in 1883. The puzzle consists of 3 rods and several disks ranging from smallest to largest. The goal is to move an entire stack of disks to another by following this set of rules. The first is that only one disk can be moved at a time. Second, the upper disk of any of the rods can be taken and can only be put on top of the other rods. Third, no disk may be on top of a smaller disk. 
+The tower of Hanoi consists of 3 rods and several disks ranging from smallest to largest. The goal is to move an entire stack of disks to another by following this set of rules. The first is that only one disk can be moved at a time. Second, the upper disk of any of the rods can be taken and can only be put on top of the other rods. Third, no disk may be on top of a smaller disk. 
 
 The use of data structures is the best practical use for the puzzle. The minimum number of moves is 2^n-1, where n is the number of disks. As the number of disks increases, the number of moves increases. It is a good demonstration of recursive algorithms and algorithms in general. The following data structures were used: 
 
